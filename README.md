@@ -5,7 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Computer Vision open-source projects**
 
-- 📄 Know about my experiences [linkedin.com/in/alexandre-duverger-b8329739](linkedin.com/in/alexandre-duverger-b8329739)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
