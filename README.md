@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A passionate Sustainable Design Engineer and Data Scientist.</h3>
 
-- 🔭 &nbsp; I’m currently working on **a deep learning model to predict regulatory energy consumption of buildings at early design phase.**
+- 🔭 &nbsp; I’m currently working on **a deep learning model to predict regulatory energy consumption of buildings at early design phase**
 
 - 👯 &nbsp; I’m looking to collaborate on **Computer Vision open-source projects**
 
