@@ -5,6 +5,11 @@
 
 - 👯 &nbsp; I’m looking to collaborate on **Computer Vision open-source projects**
 
+- 👨‍💻 &nbsp; All of my projects are available at [my Portfolio](https://aduverger.notion.site/aduverger/Alex-s-Portfolio-aad06eb9bbcb4c4cae52d05421228a65)
+
+- 📄 &nbsp; Know about my experiences: [my CV](https://drive.google.com/file/d/1qzXGrXkcGwx9C0Bs0IggpPEw36JZe-8w/view)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
