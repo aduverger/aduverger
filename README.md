@@ -9,6 +9,7 @@
 
 - 📄 &nbsp; Know about my experiences: [my CV](https://drive.google.com/file/d/1qzXGrXkcGwx9C0Bs0IggpPEw36JZe-8w/view)
 
+- 📚 &nbsp; Current read: [Mathematics for Machine Learning](https://mml-book.com)
 
 
 <h3 align="left">Connect with me:</h3>
