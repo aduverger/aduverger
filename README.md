@@ -3,7 +3,7 @@
 
 - 🔭 &nbsp; I’m currently working on **a deep learning model to predict regulatory energy consumption of buildings at early design phase**
 
-- 👯 &nbsp; I’m looking to collaborate on **Computer Vision or NLP projects**
+- 👯 &nbsp; I’m looking to collaborate on **Computer Vision and NLP open source projects**
 
 - 👨‍💻 &nbsp; All of my projects are available at [my Portfolio](https://aduverger.notion.site/aduverger/Alex-s-Portfolio-aad06eb9bbcb4c4cae52d05421228a65)
 
