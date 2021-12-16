@@ -7,7 +7,7 @@
 
 - 👨‍💻 &nbsp; All of my projects are available at [my Portfolio](https://aduverger.notion.site/aduverger/Alex-s-Portfolio-aad06eb9bbcb4c4cae52d05421228a65)
 
-- 📄 &nbsp; Know about my experiences: [my CV](https://drive.google.com/file/d/1DlS7iGMwrmh8kXyBUO5eNvQvrl38HYWz/view)
+- 📄 &nbsp; Know about my experiences: [my CV](https://drive.google.com/file/d/1KmYeUicgF-DAc5j7btJPsqHG9INxsri3/view?usp=sharing)
 
 - 📚 &nbsp; Current read: [Mathematics for Machine Learning](https://mml-book.com)
 
