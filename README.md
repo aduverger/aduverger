@@ -52,7 +52,7 @@
 ![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 📊GitHub Stats :
+# 📊 GitHub Stats :
 
 <div>
   <a href="https://github.com/aduverger">
