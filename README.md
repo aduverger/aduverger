@@ -9,7 +9,7 @@
 
 - 📄 &nbsp; Know about my experiences: [my CV](https://drive.google.com/file/d/1aDM7wl_SihJgZGucISpvvyl8zztPF-TF/view?usp=sharing)
 
-- 📚 &nbsp; Current read: [Mathematics for Machine Learning](https://mml-book.com)
+- 📚 &nbsp; Current read: [Machine Learning with PyTorch](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
 
 
 <h3 align="left">Connect with me:</h3>
