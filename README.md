@@ -5,8 +5,6 @@
 
 - 👯 &nbsp; I’m looking to collaborate on **Computer Vision and NLP open source projects**
 
-- 👨‍💻 &nbsp; All of my projects are available at [my Portfolio](https://aduverger.notion.site/aduverger/Alex-s-Portfolio-aad06eb9bbcb4c4cae52d05421228a65)
-
 - 📄 &nbsp; Know about my experiences: [my CV](https://drive.google.com/file/d/1aDM7wl_SihJgZGucISpvvyl8zztPF-TF/view?usp=sharing)
 
 - 📚 &nbsp; Current read: [Machine Learning with PyTorch](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
