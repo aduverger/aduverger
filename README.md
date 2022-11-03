@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">ML Engineer | Software Developer | ex Building Physics Engineer</h3>
-
-- 🔭 &nbsp; I’m currently working on **a Telegram bot that finds apartments for you**
+<h3 align="center">ML Engineer @ Amazon</h3>
 
 - 👯 &nbsp; I’m looking to collaborate on **Computer Vision and NLP open source projects**
-
-- 📄 &nbsp; Know about my experiences: [my CV](https://drive.google.com/file/d/1aDM7wl_SihJgZGucISpvvyl8zztPF-TF/view?usp=sharing)
 
 - 📚 &nbsp; Current read: [Clean Code Handbook](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
