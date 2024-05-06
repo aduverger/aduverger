@@ -35,11 +35,3 @@
 ![Amazon Pipelines](https://img.shields.io/badge/Amazon%20Pipelines-23ac2c?style=for-the-badge)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-# 📊 GitHub Stats :
-
-<div>
-  <a href="https://github.com/aduverger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aduverger&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aduverger&layout=compact&langs_count=7&theme=dark&hide_border=true"/>
-</div>
