@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">ML Software Engineer @ Amazon</h3>
+<h3 align="center">ML Software Engineer | x-Amazon </h3>
 
 - 👯 &nbsp; I’m looking to collaborate on **Computer Vision and NLP open source projects**
 
-- 📚 &nbsp; Current read: [Clean Code Handbook](https://www.amazon.fr/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+- 📚 &nbsp; Current read: [The Rust Programming Language](https://doc.rust-lang.org/book/)
 
 
 <h3 align="left">Connect with me:</h3>
