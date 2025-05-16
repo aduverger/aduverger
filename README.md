@@ -3,4 +3,4 @@
 
 - 🌍 &nbsp; Working on **AI for sustainability** projects
 
-- 📚 &nbsp; Current read: [Building a LLM from scratch](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- 📚 &nbsp; Current read: [AI-Powered Search](https://www.manning.com/books/ai-powered-search)
